@@ -71,7 +71,7 @@
 
 // let sum = 0;
 
-// for (let i = 1; i < 10; i++) {
+// for (let i = 0; i < 10; i++) {
 //   let son = +prompt(`${i}-sonni kiriting`);
 //   if (son > 0) {
 //     sum += son;
@@ -82,8 +82,129 @@
 
 //3-masala;
 
-for (let i = 1; i < 100; i++) {
-  if (i >= 30 && i <= 50) {
-    console.log(i);
-  }
-}
+// for (let i = 1; i < 100; i++) {
+//   if (i >= 30 && i <= 50) {
+//     console.log(i);
+//   }
+// }
+
+//4-masala;
+
+// let musbat = 0;
+// let manfiy = 0;
+
+// for (let i = 1; i < 15; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son > 0) {
+//     musbat++;
+//   } else {
+//     manfiy++;
+//   }
+// }
+// console.log(`Musbat sonlar soni: ${musbat}`);
+// console.log(`Manfiy sonlar soni: ${manfiy}`);
+
+//5-masala;
+
+// let sum = 0;
+
+// for (let i = 1; i <= 50; i++) {
+//   if (i % 2 !== 0) {
+//     sum += i;
+//   }
+// }
+// console.log(`Toq sonlar yig'indisi: ${sum}`);
+
+//6-masala;
+
+// for (let i = 1; i <= 5; i++) {
+//   let yoshi = +prompt(`${i}-nchi odamni yoshini kiriting`);
+//   if (yoshi >= 18) {
+//     console.log("Voyaga yetgan");
+//   } else {
+//     console.log("Voyaga yetmagan");
+//   }
+// }
+
+//7-masala;
+
+// let sum = 0;
+
+// for (let i = 1; i <= 100; i++) {
+//   if (i % 2 == 0) {
+//     sum++;
+//     console.log(i);
+//   }
+// }
+
+// console.log(`Juft sonlar soni: ${sum}`);
+
+//8-masala;
+
+// let sum = 0;
+
+// let sum = 0;
+
+// for (let i = 1; i <= 10; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son >= 5 && son <= 10) {
+//     sum++;
+//   }
+// }
+
+// console.log(`5 va 10 orasidagi sonlar : ${sum}`);
+
+//9-masala;
+
+// for (let i = 1; i <= 10; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son > 0) {
+//     console.log(`Musbat son: ${son}`);
+//   }
+// }
+
+//10-masala;
+
+// let count = 0;
+
+// for (let i = 1; i <= 15; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son % 2 == 0 || son < 0) {
+//     count++;
+//     console.log(`Juft yoki manfiy son: ${son}`);
+//   }
+// }
+// console.log(`Juft yoki manfiy sonlar soni: ${count}`);
+
+//11-masala;
+
+// for (let i = 1; i <= 50; i++) {
+//   if (i % 3 == 0) {
+//     console.log(i);
+//   }
+// }
+
+//12-masala;
+
+// let count = 0;
+
+// for (let i = 1; i <= 10; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son >= 50) {
+//     count++;
+//     console.log(son);
+//   }
+// }
+
+// console.log(`50 dan katta sonlar soni: ${count}`);
+
+//13-masala;
+
+// for (let i = 1; i <= 10; i++) {
+//   let son = +prompt(`${i}-sonni kiriting`);
+//   if (son === 0) {
+//     console.log(son);
+//     console.log("0 - mavjud");
+//     break;
+//   }
+// }
